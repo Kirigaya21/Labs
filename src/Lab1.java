@@ -1,5 +1,5 @@
 import java.util.Scanner;
-import static java.lang.Math.*;
+        import static java.lang.Math.*;
 public class Lab1 {
     public static void main(String[] args){
         double x=1.72;
